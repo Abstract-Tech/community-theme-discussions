@@ -33,9 +33,9 @@
     "url": "https://github.com/openedx/frontend-app-discussions/issues"
   },
   "dependencies": {
-    "@edx/brand": "npm:@edx/brand-openedx@1.1.0",
-    "@edx/frontend-component-footer": "12.1.0",
-    "@edx/frontend-component-header": "4.3.0",
+    "@edx/brand": "git+https://git@github.com/abstract-tech/community-theme-brand.git#quince",
+    "@edx/frontend-component-footer": "git+https://git@github.com/abstract-tech/community-theme-footer.git#quince",
+    "@edx/frontend-component-header": "git+https://git@github.com/abstract-tech/community-theme-header.git#quince",
     "@edx/frontend-platform": "4.6.0",
     "@edx/paragon": "20.44.0",
     "@reduxjs/toolkit": "1.8.0",
