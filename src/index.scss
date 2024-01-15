@@ -517,6 +517,18 @@ header {
   right: 0px !important;
 }
 
+
+
+div.container-xl {
+  flex-direction: inherit !important;
+}
+
+div.nav-item {
+  a.nav-link.active {
+    color: #fff !important;
+}
+}
+
 .learning-header{
   z-index: 4;
   position: relative;
