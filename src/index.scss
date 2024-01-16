@@ -517,14 +517,15 @@ header {
   right: 0px !important;
 }
 
-a.nav-link a.active {
-  color: #fff !important;
-}
 
 div.nav-item {
-  a.nav-link.active {
+  a.nav-link, a.active {
     color: #fff !important;
   }
+}
+
+div.container-xl {
+  flex-direction: inherit !important;
 }
 
 .learning-header{
